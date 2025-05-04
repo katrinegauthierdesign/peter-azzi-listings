@@ -1,0 +1,72 @@
+[
+  {
+    "title": "1912, Chemin de Boileau, Namur",
+    "address": "1912, Chemin de Boileau, Namur",
+    "price": "150\u00a0000\u00a0$",
+    "category": "Terrain",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "mainImage": "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827196/peter-azzi/listing_0_img_0.jpg",
+    "imageUrls": [
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827196/peter-azzi/listing_0_img_0.jpg",
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827197/peter-azzi/listing_0_img_1.jpg"
+    ],
+    "listingUrl": "https://www.centris.ca/fr/propriete~1912-chemin-de-boileau-namur/20407154"
+  },
+  {
+    "title": "28, Rue de Granville, Gatineau (Hull)",
+    "address": "28, Rue de Granville, Gatineau (Hull)",
+    "price": "384\u00a0999\u00a0$",
+    "category": "Maison \u00e0 \u00e9tages",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "mainImage": "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827215/peter-azzi/listing_1_img_0.jpg",
+    "imageUrls": [
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827215/peter-azzi/listing_1_img_0.jpg",
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827216/peter-azzi/listing_1_img_1.jpg"
+    ],
+    "listingUrl": "https://www.centris.ca/fr/propriete~28-rue-de-granville-gatineau-hull/27833653"
+  },
+  {
+    "title": "27, Rue de Granville, Gatineau (Hull)",
+    "address": "27, Rue de Granville, Gatineau (Hull)",
+    "price": "379\u00a0999\u00a0$",
+    "category": "Maison \u00e0 \u00e9tages",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "mainImage": "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827236/peter-azzi/listing_2_img_0.jpg",
+    "imageUrls": [
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827236/peter-azzi/listing_2_img_0.jpg",
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827237/peter-azzi/listing_2_img_1.jpg"
+    ],
+    "listingUrl": "https://www.centris.ca/fr/propriete~27-rue-de-granville-gatineau-hull/17858069"
+  },
+  {
+    "title": "104, Rue Moreau, Gatineau (Hull)",
+    "address": "104, Rue Moreau, Gatineau (Hull)",
+    "price": "524\u00a0999\u00a0$",
+    "category": "Triplex",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "mainImage": "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827252/peter-azzi/listing_3_img_0.jpg",
+    "imageUrls": [
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827252/peter-azzi/listing_3_img_0.jpg",
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827253/peter-azzi/listing_3_img_1.jpg"
+    ],
+    "listingUrl": "https://www.centris.ca/fr/propriete~104-rue-moreau-gatineau-hull/15767567"
+  },
+  {
+    "title": "179, Rue Main, Gatineau (Aylmer)",
+    "address": "179, Rue Main, Gatineau (Aylmer)",
+    "price": "389\u00a0999\u00a0$ +TPS/TVQ",
+    "category": "B\u00e2tisse commerciale/Bureau",
+    "bedrooms": "N/A",
+    "bathrooms": "1",
+    "mainImage": "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827272/peter-azzi/listing_4_img_0.jpg",
+    "imageUrls": [
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827272/peter-azzi/listing_4_img_0.jpg",
+      "https://res.cloudinary.com/djyy8ynrm/image/upload/v1714827273/peter-azzi/listing_4_img_1.jpg"
+    ],
+    "listingUrl": "https://www.centris.ca/fr/propriete~179-rue-main-gatineau-aylmer/19751471"
+  }
+]
